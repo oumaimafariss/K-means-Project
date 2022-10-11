@@ -1,5 +1,5 @@
 # Master
-project
+K-means Project
 # Machine Learning "Kmeans"
 This projet contante several Part:
  ##  "ITEMS COLLECTION"
